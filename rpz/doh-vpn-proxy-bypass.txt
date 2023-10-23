@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698014400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1698057180 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Oct 2023 22:40 UTC
-; Version: 2023.1022.2240.42
+; Last modified: 23 Oct 2023 10:33 UTC
+; Version: 2023.1023.1033.05
 ; Syntax: RPZ
-; Number of entries: 5148
+; Number of entries: 5146
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -931,8 +931,6 @@ flashpull.com CNAME .
 *.flashpull.com CNAME .
 flowvpn.com CNAME .
 *.flowvpn.com CNAME .
-dns.flwagners.com CNAME .
-*.dns.flwagners.com CNAME .
 flyssh.com CNAME .
 *.flyssh.com CNAME .
 flyvpn.com CNAME .
