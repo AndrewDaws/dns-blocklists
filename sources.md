@@ -392,6 +392,7 @@ https://www.watchlist-internet.at/liste-finanzbetrug/
 https://www.watchlist-internet.at/liste-handwerksdienste/
 https://www.watchlist-internet.at/liste-immobilienagenturen/
 https://www.watchlist-internet.at/liste-jobangebote/
+https://www.watchlist-internet.at/liste-problematischer-shops/
 https://www.watchlist-internet.at/liste-speditionen/
 https://www.watchlist-internet.at/liste-urlaubsbuchung/
 https://www.zoso.ro/pages/rolist2.txt
