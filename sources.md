@@ -282,6 +282,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-oran
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-positivetech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-proofpoint.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-qianxin.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-recordedfuture.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sekoia.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
