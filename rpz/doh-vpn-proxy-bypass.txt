@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698187140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1698273540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 24 Oct 2023 22:39 UTC
-; Version: 2023.1024.2239.59
+; Last modified: 25 Oct 2023 22:39 UTC
+; Version: 2023.1025.2239.28
 ; Syntax: RPZ
-; Number of entries: 5146
+; Number of entries: 5136
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -425,12 +425,8 @@ dns-family.adguard.com CNAME .
 *.dns-family.adguard.com CNAME .
 dns-unfiltered.adguard.com CNAME .
 *.dns-unfiltered.adguard.com CNAME .
-dns.adguard-dns.com CNAME .
-*.dns.adguard-dns.com CNAME .
-family.adguard-dns.com CNAME .
-*.family.adguard-dns.com CNAME .
-unfiltered.adguard-dns.com CNAME .
-*.unfiltered.adguard-dns.com CNAME .
+adguard-dns.com CNAME .
+*.adguard-dns.com CNAME .
 adguard-vpn.com CNAME .
 *.adguard-vpn.com CNAME .
 adresseip.com CNAME .
@@ -4089,8 +4085,6 @@ sshdropbear.net CNAME .
 *.sshdropbear.net CNAME .
 sshmax.net CNAME .
 *.sshmax.net CNAME .
-sshprotocol.net CNAME .
-*.sshprotocol.net CNAME .
 sshstores.net CNAME .
 *.sshstores.net CNAME .
 sslproxies.net CNAME .
@@ -4365,10 +4359,6 @@ osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
-tuandns.duckdns.org CNAME .
-*.tuandns.duckdns.org CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
 arashi.eu.org CNAME .
