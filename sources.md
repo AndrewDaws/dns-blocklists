@@ -1,6 +1,7 @@
 ### Sources
 *Active sources that are partially used for the compilation of the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
+
 http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
 https://adblock.ee/list.php
@@ -141,6 +142,7 @@ https://raw.githubusercontent.com/DandelionSprout/Swedish-List-for-Adblock-Plus/
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
+https://raw.githubusercontent.com/duckduckgo/tracker-blocklists/main/app/android-tds.json
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
