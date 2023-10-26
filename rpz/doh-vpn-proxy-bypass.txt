@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698273540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1698316860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 25 Oct 2023 22:39 UTC
-; Version: 2023.1025.2239.28
+; Last modified: 26 Oct 2023 10:41 UTC
+; Version: 2023.1026.1041.11
 ; Syntax: RPZ
-; Number of entries: 5136
+; Number of entries: 5140
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -4359,6 +4359,10 @@ osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
+tuandns.duckdns.org CNAME .
+*.tuandns.duckdns.org CNAME .
+tungdnsne.duckdns.org CNAME .
+*.tungdnsne.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
 arashi.eu.org CNAME .
