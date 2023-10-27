@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698360300 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1698403200 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Oct 2023 22:45 UTC
-; Version: 2023.1026.2245.26
+; Last modified: 27 Oct 2023 10:40 UTC
+; Version: 2023.1027.1040.39
 ; Syntax: RPZ
-; Number of entries: 21214
+; Number of entries: 21218
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7136,6 +7136,8 @@ subirimagenes.com CNAME .
 *.subirimagenes.com CNAME .
 subtituladas.com CNAME .
 *.subtituladas.com CNAME .
+lima-peru.subventas.com CNAME .
+*.lima-peru.subventas.com CNAME .
 suesupriano.com CNAME .
 *.suesupriano.com CNAME .
 sugarsync.com CNAME .
@@ -21016,6 +21018,8 @@ limetorrents.xyz CNAME .
 *.limetorrents.xyz CNAME .
 opentracker.lingyurouqing.xyz CNAME .
 *.opentracker.lingyurouqing.xyz CNAME .
+openwrt.lingyurouqing.xyz CNAME .
+*.openwrt.lingyurouqing.xyz CNAME .
 mamahd.xyz CNAME .
 *.mamahd.xyz CNAME .
 maxseries.xyz CNAME .
