@@ -378,6 +378,7 @@ https://tranco-list.eu/top-1m.csv.zip
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/Admiral.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
+https://www.auktionshilfe.info/board/22-online-shops/
 https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
