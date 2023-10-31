@@ -390,6 +390,7 @@ https://www.trustedshops.de/fake-shops/
 https://www.usom.gov.tr/url-list.txt
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
 https://www.void.gr/kargig/void-gr-filters.txt
+https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird
 https://www.watchlist-internet.at/liste-abo-fallen/
 https://www.watchlist-internet.at/liste-betruegerischer-shops/
 https://www.watchlist-internet.at/liste-finanzbetrug/
