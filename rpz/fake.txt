@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698753120 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1698796860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Oct 2023 11:52 UTC
-; Version: 2023.1031.1152.30
+; Last modified: 01 Nov 2023 00:01 UTC
+; Version: 2023.1101.0001.39
 ; Syntax: RPZ
-; Number of entries: 26838
+; Number of entries: 26844
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -11138,6 +11138,8 @@ npowieki.com CNAME .
 *.npowieki.com CNAME .
 npuia.com CNAME .
 *.npuia.com CNAME .
+nse-logistics.com CNAME .
+*.nse-logistics.com CNAME .
 nseisoy.com CNAME .
 *.nseisoy.com CNAME .
 nsp-ie.com CNAME .
@@ -20576,6 +20578,8 @@ holdengm.de CNAME .
 *.holdengm.de CNAME .
 holydogwater.de CNAME .
 *.holydogwater.de CNAME .
+holz-aluprofi.de CNAME .
+*.holz-aluprofi.de CNAME .
 holz-lagerversand.de CNAME .
 *.holz-lagerversand.de CNAME .
 holzenergie-pellets.de CNAME .
@@ -25324,6 +25328,8 @@ ajar.shop CNAME .
 *.ajar.shop CNAME .
 alltogether.shop CNAME .
 *.alltogether.shop CNAME .
+aluproholz.shop CNAME .
+*.aluproholz.shop CNAME .
 amnayavanit.shop CNAME .
 *.amnayavanit.shop CNAME .
 andrefood.shop CNAME .
