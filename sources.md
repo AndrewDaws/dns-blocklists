@@ -257,6 +257,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citi
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-csirt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfirma.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-deepinstinct.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-elastic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
