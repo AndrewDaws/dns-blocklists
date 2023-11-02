@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698922680 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1698966000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Nov 2023 10:58 UTC
-; Version: 2023.1102.1058.20
+; Last modified: 02 Nov 2023 23:00 UTC
+; Version: 2023.1102.2300.11
 ; Syntax: RPZ
-; Number of entries: 5132
+; Number of entries: 5144
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -29,6 +29,8 @@ antistalkerfree-eu.europe-west1.firebasedatabase.app CNAME .
 *.antistalkerfree-eu.europe-west1.firebasedatabase.app CNAME .
 larva.app CNAME .
 *.larva.app CNAME .
+ngrok.app CNAME .
+*.ngrok.app CNAME .
 ngrok-free.app CNAME .
 *.ngrok-free.app CNAME .
 surfshark.app CNAME .
@@ -1391,6 +1393,8 @@ newipnow.com CNAME .
 *.newipnow.com CNAME .
 newshosting.com CNAME .
 *.newshosting.com CNAME .
+ngrok.com CNAME .
+*.ngrok.com CNAME .
 dns.nhtsky.com CNAME .
 *.dns.nhtsky.com CNAME .
 nice-autosurf.com CNAME .
@@ -2623,6 +2627,10 @@ dns.mrkaran.dev CNAME .
 *.dns.mrkaran.dev CNAME .
 dns.ndo.dev CNAME .
 *.dns.ndo.dev CNAME .
+ngrok.dev CNAME .
+*.ngrok.dev CNAME .
+ngrok-free.dev CNAME .
+*.ngrok-free.dev CNAME .
 unblockit.pages.dev CNAME .
 *.unblockit.pages.dev CNAME .
 resolver.rferee.dev CNAME .
@@ -4593,6 +4601,8 @@ surfshark.ph CNAME .
 *.surfshark.ph CNAME .
 unblock.pink CNAME .
 *.unblock.pink CNAME .
+ngrok.pizza CNAME .
+*.ngrok.pizza CNAME .
 antycenzor.pl CNAME .
 *.antycenzor.pl CNAME .
 bramka-proxy.pl CNAME .
@@ -4791,6 +4801,8 @@ dns.zfsystem.tech CNAME .
 *.dns.zfsystem.tech CNAME .
 dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
+hotspotproxy.tk CNAME .
+*.hotspotproxy.tk CNAME .
 dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
 dns.vinokurov.tk CNAME .
