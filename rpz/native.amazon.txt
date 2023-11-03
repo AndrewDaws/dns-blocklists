@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699009320 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699052760 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -7,29 +7,23 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Nov 2023 11:02 UTC
-; Version: 2023.1103.1102.25
+; Last modified: 03 Nov 2023 23:06 UTC
+; Version: 2023.1103.2306.17
 ; Syntax: RPZ
-; Number of entries: 384
+; Number of entries: 362
 ;
-aan.amazon.ae CNAME .
-*.aan.amazon.ae CNAME .
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
 fls-eu.amazon.ae CNAME .
 *.fls-eu.amazon.ae CNAME .
 unagi.amazon.ae CNAME .
 *.unagi.amazon.ae CNAME .
-aan.amazon.com.au CNAME .
-*.aan.amazon.com.au CNAME .
 advertising.amazon.com.au CNAME .
 *.advertising.amazon.com.au CNAME .
 fls-fe.amazon.com.au CNAME .
 *.fls-fe.amazon.com.au CNAME .
 unagi.amazon.com.au CNAME .
 *.unagi.amazon.com.au CNAME .
-aan.amazon.com.be CNAME .
-*.aan.amazon.com.be CNAME .
 fls-eu.amazon.com.be CNAME .
 *.fls-eu.amazon.com.be CNAME .
 unagi.amazon.com.be CNAME .
@@ -42,8 +36,6 @@ unagi.amazon.com.br CNAME .
 *.unagi.amazon.com.br CNAME .
 advertising.amazon.ca CNAME .
 *.advertising.amazon.ca CNAME .
-fls-eu.amazon.ca CNAME .
-*.fls-eu.amazon.ca CNAME .
 fls-na.amazon.ca CNAME .
 *.fls-na.amazon.ca CNAME .
 unagi.amazon.ca CNAME .
@@ -270,8 +262,6 @@ assoc-amazon.de CNAME .
 *.assoc-amazon.de CNAME .
 advertising.amazon.dev CNAME .
 *.advertising.amazon.dev CNAME .
-aan.amazon.eg CNAME .
-*.aan.amazon.eg CNAME .
 advertising.amazon.eg CNAME .
 *.advertising.amazon.eg CNAME .
 fls-eu.amazon.eg CNAME .
@@ -342,42 +332,30 @@ api.us-west-2.aiv-delivery.net CNAME .
 *.api.us-west-2.aiv-delivery.net CNAME .
 d3p8zr0ffa9t17.cloudfront.net CNAME .
 *.d3p8zr0ffa9t17.cloudfront.net CNAME .
-aan.amazon.nl CNAME .
-*.aan.amazon.nl CNAME .
 advertising.amazon.nl CNAME .
 *.advertising.amazon.nl CNAME .
 fls-eu.amazon.nl CNAME .
 *.fls-eu.amazon.nl CNAME .
 unagi.amazon.nl CNAME .
 *.unagi.amazon.nl CNAME .
-aan.amazon.pl CNAME .
-*.aan.amazon.pl CNAME .
 fls-eu.amazon.pl CNAME .
 *.fls-eu.amazon.pl CNAME .
 unagi.amazon.pl CNAME .
 *.unagi.amazon.pl CNAME .
-aan.amazon.sa CNAME .
-*.aan.amazon.sa CNAME .
 advertising.amazon.sa CNAME .
 *.advertising.amazon.sa CNAME .
 fls-eu.amazon.sa CNAME .
 *.fls-eu.amazon.sa CNAME .
 unagi.amazon.sa CNAME .
 *.unagi.amazon.sa CNAME .
-aan.amazon.se CNAME .
-*.aan.amazon.se CNAME .
 fls-eu.amazon.se CNAME .
 *.fls-eu.amazon.se CNAME .
 unagi.amazon.se CNAME .
 *.unagi.amazon.se CNAME .
-aan.amazon.sg CNAME .
-*.aan.amazon.sg CNAME .
 fls-fe.amazon.sg CNAME .
 *.fls-fe.amazon.sg CNAME .
 unagi.amazon.sg CNAME .
 *.unagi.amazon.sg CNAME .
-aan.amazon.com.tr CNAME .
-*.aan.amazon.com.tr CNAME .
 advertising.amazon.com.tr CNAME .
 *.advertising.amazon.com.tr CNAME .
 fls-eu.amazon.com.tr CNAME .
