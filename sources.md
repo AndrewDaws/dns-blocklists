@@ -254,6 +254,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cert
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-clearsky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-csirt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfirma.txt
