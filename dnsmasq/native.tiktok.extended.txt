@@ -3,12 +3,11 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Nov 2023 11:07 UTC
-# Version: 2023.1103.1107.26
+# Last modified: 05 Nov 2023 19:32 UTC
+# Version: 2023.1105.1932.43
 # Syntax: DNSMasq
-# Number of entries: 383
+# Number of entries: 396
 #
-address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/docs-frontier-sg.byteoversea.com/#
 address=/frontier.byteoversea.com/#
 address=/frontier-prek-room.byteoversea.com/#
@@ -32,15 +31,10 @@ address=/gecko-pangle-sg.byteoversea.com/#
 address=/gecko-sg.byteoversea.com/#
 address=/gecko-va.byteoversea.com/#
 address=/gecko-va-useast2a.byteoversea.com/#
-address=/gmcssg-sandbox.byteoversea.com/#
-address=/gplog-sg.byteoversea.com/#
-address=/gplog-va.byteoversea.com/#
-address=/gplog-va-useast2a.byteoversea.com/#
 address=/gpm-mon-sg.byteoversea.com/#
 address=/gpm-mon-va.byteoversea.com/#
 address=/gpm-mon-va-useast1a.byteoversea.com/#
 address=/gpm-mon-va-useast2a.byteoversea.com/#
-address=/tnc16-alisg2agmcssg.gts.byteoversea.com/#
 address=/lark-frontier.byteoversea.com/#
 address=/lark-frontier-sg.byteoversea.com/#
 address=/log.byteoversea.com/#
@@ -56,13 +50,15 @@ address=/mssdk-sg.byteoversea.com/#
 address=/mssdk-sg-bu.byteoversea.com/#
 address=/mssdk-va.byteoversea.com/#
 address=/mssdk-va-useast2a.byteoversea.com/#
+address=/p16-ad.byteoversea.com/#
 address=/pc-mon-va.byteoversea.com/#
 address=/rtlog.byteoversea.com/#
 address=/sgali-mcs.byteoversea.com/#
 address=/sgaws-mcs.byteoversea.com/#
 address=/sgee-log.byteoversea.com/#
 address=/sgee-mcs.byteoversea.com/#
-address=/toblog.byteoversea.com/#
+address=/ug-sg.byteoversea.com/#
+address=/v16-ad.byteoversea.com/#
 address=/vaali-mcs.byteoversea.com/#
 address=/vaali-mcs-useast1a.byteoversea.com/#
 address=/vaali-mcs-useast2a.byteoversea.com/#
@@ -72,30 +68,49 @@ address=/xlog-o.byteoversea.com/#
 address=/xlog-va.byteoversea.com/#
 address=/xlog-va-useast2a.byteoversea.com/#
 address=/sf16-muse-va.ibytedtos.com/#
+address=/abtest-ch.snssdk.com/#
 address=/analytics.snssdk.com/#
 address=/applog.snssdk.com/#
+address=/bds.snssdk.com/#
 address=/extlog.snssdk.com/#
+address=/f-moneyloan.snssdk.com/#
+address=/f-moneyloantest.snssdk.com/#
 address=/frontier.snssdk.com/#
 address=/frontier-aweme.snssdk.com/#
 address=/frontier-aweme-hl.snssdk.com/#
 address=/frontier-toutiao.snssdk.com/#
 address=/gecko.snssdk.com/#
+address=/gecko-hl.snssdk.com/#
+address=/gecko-lq.snssdk.com/#
 address=/gecko-pangle-hl.snssdk.com/#
 address=/gecko-pangle-lf.snssdk.com/#
 address=/gecko-pangle-lq.snssdk.com/#
+address=/haohuo.snssdk.com/#
 address=/log.snssdk.com/#
 address=/log-hl.snssdk.com/#
 address=/log-lf.snssdk.com/#
 address=/log-lq.snssdk.com/#
 address=/mcs.snssdk.com/#
+address=/mercury-sdk.snssdk.com/#
 address=/mon.snssdk.com/#
+address=/mon-hl.snssdk.com/#
 address=/mssdk.snssdk.com/#
 address=/mssdk-bu.snssdk.com/#
+address=/open.snssdk.com/#
 address=/os-mon.snssdk.com/#
+address=/pangolin.snssdk.com/#
 address=/pc-mon.snssdk.com/#
+address=/sdfp.snssdk.com/#
+address=/tbm.snssdk.com/#
+address=/temai.snssdk.com/#
+address=/tobapplog.snssdk.com/#
+address=/toblog.snssdk.com/#
 address=/toutiao-frontier.snssdk.com/#
+address=/tsearch.snssdk.com/#
+address=/ug.snssdk.com/#
 address=/varticle-frontier.snssdk.com/#
 address=/varticle-frontier-hl.snssdk.com/#
+address=/vas-hl-x.snssdk.com/#
 address=/xlog.snssdk.com/#
 address=/ads.tiktok.com/#
 address=/ads-api.tiktok.com/#
@@ -117,7 +132,6 @@ address=/mcs-va.tiktok.com/#
 address=/mssdk-i18n.tiktok.com/#
 address=/mssdk-quic-sg.tiktok.com/#
 address=/mssdk-sg.tiktok.com/#
-address=/mssdk-va.tiktok.com/#
 address=/analytics.us.tiktok.com/#
 address=/analytics-exp.us.tiktok.com/#
 address=/analytics-ttp2.us.tiktok.com/#
@@ -286,7 +300,6 @@ address=/mssdk-quic-sg.tiktokv.com/#
 address=/mssdk-quic-va.tiktokv.com/#
 address=/mssdk-ru.tiktokv.com/#
 address=/mssdk-sg.tiktokv.com/#
-address=/mssdk-va.tiktokv.com/#
 address=/mssdk-va-useast2a.tiktokv.com/#
 address=/mssdk16-normal.tiktokv.com/#
 address=/mssdk16-normal-alisg.tiktokv.com/#

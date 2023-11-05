@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Oct 2023 22:59 UTC
-# Version: 2023.1025.2259.24
+# Last modified: 05 Nov 2023 19:27 UTC
+# Version: 2023.1105.1927.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 231
+# Number of entries: 240
 #
+0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gpm-mon-sg.byteoversea.com
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 gpm-mon-va-useast1a.byteoversea.com
@@ -25,12 +26,15 @@
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mssdk-va-useast2a.byteoversea.com
+0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 pc-mon-va.byteoversea.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 sgaws-mcs.byteoversea.com
 0.0.0.0 sgee-log.byteoversea.com
 0.0.0.0 sgee-mcs.byteoversea.com
+0.0.0.0 ug-sg.byteoversea.com
+0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 vaali-mcs.byteoversea.com
 0.0.0.0 vaali-mcs-useast1a.byteoversea.com
 0.0.0.0 vaali-mcs-useast2a.byteoversea.com
@@ -39,21 +43,42 @@
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va-useast2a.byteoversea.com
+0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com
+0.0.0.0 bds.snssdk.com
 0.0.0.0 extlog.snssdk.com
+0.0.0.0 f-moneyloan.snssdk.com
+0.0.0.0 f-moneyloantest.snssdk.com
+0.0.0.0 gecko-hl.snssdk.com
+0.0.0.0 gecko-lq.snssdk.com
+0.0.0.0 haohuo.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 mcs.snssdk.com
+0.0.0.0 mercury-sdk.snssdk.com
 0.0.0.0 mon.snssdk.com
+0.0.0.0 mon-hl.snssdk.com
 0.0.0.0 mssdk.snssdk.com
 0.0.0.0 mssdk-bu.snssdk.com
+0.0.0.0 open.snssdk.com
 0.0.0.0 os-mon.snssdk.com
+0.0.0.0 pangolin.snssdk.com
 0.0.0.0 pc-mon.snssdk.com
+0.0.0.0 sdfp.snssdk.com
+0.0.0.0 tbm.snssdk.com
+0.0.0.0 temai.snssdk.com
+0.0.0.0 tobapplog.snssdk.com
+0.0.0.0 toblog.snssdk.com
+0.0.0.0 toutiao-frontier.snssdk.com
+0.0.0.0 tsearch.snssdk.com
+0.0.0.0 ug.snssdk.com
+0.0.0.0 vas-hl-x.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 ads.tiktok.com
+0.0.0.0 12691274.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
@@ -73,7 +98,6 @@
 0.0.0.0 mssdk-i18n.tiktok.com
 0.0.0.0 mssdk-quic-sg.tiktok.com
 0.0.0.0 mssdk-sg.tiktok.com
-0.0.0.0 mssdk-va.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics-exp.us.tiktok.com
 0.0.0.0 analytics-ttp2.us.tiktok.com
@@ -153,20 +177,7 @@
 0.0.0.0 mssdk-quic-va.tiktokv.com
 0.0.0.0 mssdk-ru.tiktokv.com
 0.0.0.0 mssdk-sg.tiktokv.com
-0.0.0.0 mssdk-va.tiktokv.com
 0.0.0.0 mssdk-va-useast2a.tiktokv.com
-0.0.0.0 mssdk16-normal.tiktokv.com
-0.0.0.0 mssdk16-normal-alisg.tiktokv.com
-0.0.0.0 mssdk16-normal-useast1a.tiktokv.com
-0.0.0.0 mssdk16-normal-useast2a.tiktokv.com
-0.0.0.0 mssdk19-normal.tiktokv.com
-0.0.0.0 mssdk19-normal-alisg.tiktokv.com
-0.0.0.0 mssdk19-normal-useast1a.tiktokv.com
-0.0.0.0 mssdk19-normal-useast2a.tiktokv.com
-0.0.0.0 mssdk22-normal.tiktokv.com
-0.0.0.0 mssdk22-normal-alisg.tiktokv.com
-0.0.0.0 mssdk22-normal-useast1a.tiktokv.com
-0.0.0.0 mssdk22-normal-useast2a.tiktokv.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
@@ -219,8 +230,6 @@
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 mssdk.us.tiktokv.com
-0.0.0.0 mssdk16-normal-useast8.us.tiktokv.com
-0.0.0.0 mssdk16-platform-useast5.us.tiktokv.com
 0.0.0.0 rtc-logger.us.tiktokv.com
 0.0.0.0 rtc-logger-ttp2.us.tiktokv.com
 0.0.0.0 rtlog.us.tiktokv.com

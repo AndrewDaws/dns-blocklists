@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Oct 2023 22:59 UTC
-# Version: 2023.1025.2259.24
+# Last modified: 05 Nov 2023 19:27 UTC
+# Version: 2023.1105.1927.36
 # Syntax: DNSMasq
-# Number of entries: 231
+# Number of entries: 239
 #
+address=/frontier.byteoversea.com/#
 address=/gpm-mon-sg.byteoversea.com/#
 address=/gpm-mon-va.byteoversea.com/#
 address=/gpm-mon-va-useast1a.byteoversea.com/#
@@ -25,12 +26,15 @@ address=/mssdk-sg.byteoversea.com/#
 address=/mssdk-sg-bu.byteoversea.com/#
 address=/mssdk-va.byteoversea.com/#
 address=/mssdk-va-useast2a.byteoversea.com/#
+address=/p16-ad.byteoversea.com/#
 address=/pc-mon-va.byteoversea.com/#
 address=/rtlog.byteoversea.com/#
 address=/sgali-mcs.byteoversea.com/#
 address=/sgaws-mcs.byteoversea.com/#
 address=/sgee-log.byteoversea.com/#
 address=/sgee-mcs.byteoversea.com/#
+address=/ug-sg.byteoversea.com/#
+address=/v16-ad.byteoversea.com/#
 address=/vaali-mcs.byteoversea.com/#
 address=/vaali-mcs-useast1a.byteoversea.com/#
 address=/vaali-mcs-useast2a.byteoversea.com/#
@@ -39,19 +43,39 @@ address=/xlog.byteoversea.com/#
 address=/xlog-o.byteoversea.com/#
 address=/xlog-va.byteoversea.com/#
 address=/xlog-va-useast2a.byteoversea.com/#
+address=/abtest-ch.snssdk.com/#
 address=/analytics.snssdk.com/#
 address=/applog.snssdk.com/#
+address=/bds.snssdk.com/#
 address=/extlog.snssdk.com/#
+address=/f-moneyloan.snssdk.com/#
+address=/f-moneyloantest.snssdk.com/#
+address=/gecko-hl.snssdk.com/#
+address=/gecko-lq.snssdk.com/#
+address=/haohuo.snssdk.com/#
 address=/log.snssdk.com/#
 address=/log-hl.snssdk.com/#
 address=/log-lf.snssdk.com/#
 address=/log-lq.snssdk.com/#
 address=/mcs.snssdk.com/#
+address=/mercury-sdk.snssdk.com/#
 address=/mon.snssdk.com/#
+address=/mon-hl.snssdk.com/#
 address=/mssdk.snssdk.com/#
 address=/mssdk-bu.snssdk.com/#
+address=/open.snssdk.com/#
 address=/os-mon.snssdk.com/#
+address=/pangolin.snssdk.com/#
 address=/pc-mon.snssdk.com/#
+address=/sdfp.snssdk.com/#
+address=/tbm.snssdk.com/#
+address=/temai.snssdk.com/#
+address=/tobapplog.snssdk.com/#
+address=/toblog.snssdk.com/#
+address=/toutiao-frontier.snssdk.com/#
+address=/tsearch.snssdk.com/#
+address=/ug.snssdk.com/#
+address=/vas-hl-x.snssdk.com/#
 address=/xlog.snssdk.com/#
 address=/ads.tiktok.com/#
 address=/ads-api.tiktok.com/#
@@ -73,7 +97,6 @@ address=/mcs-va.tiktok.com/#
 address=/mssdk-i18n.tiktok.com/#
 address=/mssdk-quic-sg.tiktok.com/#
 address=/mssdk-sg.tiktok.com/#
-address=/mssdk-va.tiktok.com/#
 address=/analytics.us.tiktok.com/#
 address=/analytics-exp.us.tiktok.com/#
 address=/analytics-ttp2.us.tiktok.com/#
@@ -153,20 +176,7 @@ address=/mssdk-quic-sg.tiktokv.com/#
 address=/mssdk-quic-va.tiktokv.com/#
 address=/mssdk-ru.tiktokv.com/#
 address=/mssdk-sg.tiktokv.com/#
-address=/mssdk-va.tiktokv.com/#
 address=/mssdk-va-useast2a.tiktokv.com/#
-address=/mssdk16-normal.tiktokv.com/#
-address=/mssdk16-normal-alisg.tiktokv.com/#
-address=/mssdk16-normal-useast1a.tiktokv.com/#
-address=/mssdk16-normal-useast2a.tiktokv.com/#
-address=/mssdk19-normal.tiktokv.com/#
-address=/mssdk19-normal-alisg.tiktokv.com/#
-address=/mssdk19-normal-useast1a.tiktokv.com/#
-address=/mssdk19-normal-useast2a.tiktokv.com/#
-address=/mssdk22-normal.tiktokv.com/#
-address=/mssdk22-normal-alisg.tiktokv.com/#
-address=/mssdk22-normal-useast1a.tiktokv.com/#
-address=/mssdk22-normal-useast2a.tiktokv.com/#
 address=/rtc-logger-i18n.tiktokv.com/#
 address=/rtc-logger-va.tiktokv.com/#
 address=/rtlog.tiktokv.com/#
@@ -219,8 +229,6 @@ address=/log19-applog-useast5.us.tiktokv.com/#
 address=/mcs.us.tiktokv.com/#
 address=/mon.us.tiktokv.com/#
 address=/mssdk.us.tiktokv.com/#
-address=/mssdk16-normal-useast8.us.tiktokv.com/#
-address=/mssdk16-platform-useast5.us.tiktokv.com/#
 address=/rtc-logger.us.tiktokv.com/#
 address=/rtc-logger-ttp2.us.tiktokv.com/#
 address=/rtlog.us.tiktokv.com/#
