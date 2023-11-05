@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698966000 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699213920 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Nov 2023 23:00 UTC
-; Version: 2023.1102.2300.11
+; Last modified: 05 Nov 2023 19:52 UTC
+; Version: 2023.1105.1952.15
 ; Syntax: RPZ
-; Number of entries: 5144
+; Number of entries: 5126
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -785,8 +785,6 @@ doh-primary-pool.detoxifypornblocker.com CNAME .
 *.doh-primary-pool.detoxifypornblocker.com CNAME .
 dialertoserver.com CNAME .
 *.dialertoserver.com CNAME .
-digi77.com CNAME .
-*.digi77.com CNAME .
 digibitdesign.com CNAME .
 *.digibitdesign.com CNAME .
 districtnewyork.com CNAME .
@@ -1345,8 +1343,6 @@ dnstls.mobik.com CNAME .
 *.dnstls.mobik.com CNAME .
 mockblock.com CNAME .
 *.mockblock.com CNAME .
-mofolinux.com CNAME .
-*.mofolinux.com CNAME .
 monvpn.com CNAME .
 *.monvpn.com CNAME .
 dns.moonssif.com CNAME .
@@ -1425,8 +1421,8 @@ nordvpnteams.com CNAME .
 *.nordvpnteams.com CNAME .
 northghost.com CNAME .
 *.northghost.com CNAME .
-norton.com CNAME .
-*.norton.com CNAME .
+core-vpn.norton.com CNAME .
+*.core-vpn.norton.com CNAME .
 notlong.com CNAME .
 *.notlong.com CNAME .
 nowcache.com CNAME .
@@ -4321,8 +4317,6 @@ dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .
 *.bmetrics.org CNAME .
-tails.boum.org CNAME .
-*.tails.boum.org CNAME .
 cantblockthis.org CNAME .
 *.cantblockthis.org CNAME .
 cantfindme.org CNAME .
@@ -4419,8 +4413,6 @@ hshh.org CNAME .
 *.hshh.org CNAME .
 ininja.org CNAME .
 *.ininja.org CNAME .
-ipredia.org CNAME .
-*.ipredia.org CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 sby-doh.limotelu.org CNAME .
@@ -4447,18 +4439,12 @@ ns3.opennameserver.org CNAME .
 *.ns3.opennameserver.org CNAME .
 ns4.opennameserver.org CNAME .
 *.ns4.opennameserver.org CNAME .
-parrotsec.org CNAME .
-*.parrotsec.org CNAME .
 phproxysite.org CNAME .
 *.phproxysite.org CNAME .
 piraproxy.org CNAME .
 *.piraproxy.org CNAME .
-polippix.org CNAME .
-*.polippix.org CNAME .
 doh.powerdns.org CNAME .
 *.doh.powerdns.org CNAME .
-privacy-cd.org CNAME .
-*.privacy-cd.org CNAME .
 privoxy.org CNAME .
 *.privoxy.org CNAME .
 prostovpn.org CNAME .
@@ -4575,8 +4561,6 @@ vpnproxy.org CNAME .
 *.vpnproxy.org CNAME .
 webtunnel.org CNAME .
 *.webtunnel.org CNAME .
-whonix.org CNAME .
-*.whonix.org CNAME .
 wikimedia-dns.org CNAME .
 *.wikimedia-dns.org CNAME .
 cloudns.bosco.ovh CNAME .
@@ -4783,8 +4767,6 @@ openproxy.space CNAME .
 *.openproxy.space CNAME .
 seed.st CNAME .
 *.seed.st CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 tor2web.su CNAME .
 *.tor2web.su CNAME .
 crypto.sx CNAME .
