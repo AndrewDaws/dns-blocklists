@@ -37,6 +37,7 @@ https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://filters.adavoid.org/ultimate-security-filter.txt
 https://finanzsache.at/broker/betrug/
+https://gamingcommission.be/en/gaming-commission/illegal-games-of-chance/list-of-illegal-gambling-sites
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
 https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
@@ -378,6 +379,7 @@ https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://tor.taxi/avoid
 https://tranco-list.eu/top-1m.csv.zip
 https://urlhaus.abuse.ch/downloads/hostfile
+https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Admiral.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://www.auktionshilfe.info/board/22-online-shops/
