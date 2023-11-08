@@ -290,6 +290,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-qian
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-recordedfuture.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sekoia.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-seqrite.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
