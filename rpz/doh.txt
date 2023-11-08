@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699354140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699440660 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 07 Nov 2023 10:49 UTC
-; Version: 2023.1107.1049.42
+; Last modified: 08 Nov 2023 10:51 UTC
+; Version: 2023.1108.1051.00
 ; Syntax: RPZ
-; Number of entries: 1570
+; Number of entries: 1568
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -351,8 +351,6 @@ dns.emiliyan.com CNAME .
 *.dns.emiliyan.com CNAME .
 gclouddns.com CNAME .
 *.gclouddns.com CNAME .
-dns.glorydns.com CNAME .
-*.dns.glorydns.com CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 *.doh-primary-pool.goodbyegambling.com CNAME .
 dns.google.com CNAME .
