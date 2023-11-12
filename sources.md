@@ -259,6 +259,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-clea
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-csirt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfirma.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-d3lab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-deepinstinct.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-dfir.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
@@ -332,6 +333,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-o
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt
+https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt
