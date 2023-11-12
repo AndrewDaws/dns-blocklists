@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699795020 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699831320 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Nov 2023 13:17 UTC
-; Version: 2023.1112.1317.38
+; Last modified: 12 Nov 2023 23:22 UTC
+; Version: 2023.1112.2322.08
 ; Syntax: RPZ
-; Number of entries: 27384
+; Number of entries: 27388
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -1752,6 +1752,10 @@ anabolikabestellen.com CNAME .
 *.anabolikabestellen.com CNAME .
 anabolikalegal.com CNAME .
 *.anabolikalegal.com CNAME .
+anacondasale.com CNAME .
+*.anacondasale.com CNAME .
+anacondastoresaleau.com CNAME .
+*.anacondastoresaleau.com CNAME .
 anbuifoenbi.com CNAME .
 *.anbuifoenbi.com CNAME .
 andecko.com CNAME .
