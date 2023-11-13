@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699793220 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699837020 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Nov 2023 12:47 UTC
-; Version: 2023.1112.1247.31
+; Last modified: 13 Nov 2023 00:57 UTC
+; Version: 2023.1113.0057.55
 ; Syntax: RPZ
-; Number of entries: 113950
+; Number of entries: 113958
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -568,6 +568,8 @@ matomo.global2000.at CNAME .
 *.matomo.global2000.at CNAME .
 piwik.partizipation.wien.gv.at CNAME .
 *.piwik.partizipation.wien.gv.at CNAME .
+stats.hearthis.at CNAME .
+*.stats.hearthis.at CNAME .
 te.heine.at CNAME .
 *.te.heine.at CNAME .
 data-196c083e38.heute.at CNAME .
@@ -604,6 +606,8 @@ myownshop.at CNAME .
 *.myownshop.at CNAME .
 data-40b7721511.nachrichten.at CNAME .
 *.data-40b7721511.nachrichten.at CNAME .
+data-1fef8558fa.netdoktor.at CNAME .
+*.data-1fef8558fa.netdoktor.at CNAME .
 data-fe32da0431.news.at CNAME .
 *.data-fe32da0431.news.at CNAME .
 news-deck.at CNAME .
@@ -19942,6 +19946,8 @@ telemetry.chillicream.com CNAME .
 *.telemetry.chillicream.com CNAME .
 chimamanndgaocozmi.com CNAME .
 *.chimamanndgaocozmi.com CNAME .
+chimbsbuckle.com CNAME .
+*.chimbsbuckle.com CNAME .
 chimneylurdane.com CNAME .
 *.chimneylurdane.com CNAME .
 chimpcity.com CNAME .
@@ -21036,6 +21042,8 @@ analytics.cnblogs.com CNAME .
 *.analytics.cnblogs.com CNAME .
 count.cnblogs.com CNAME .
 *.count.cnblogs.com CNAME .
+cncpt-central.com CNAME .
+*.cncpt-central.com CNAME .
 cncptx.com CNAME .
 *.cncptx.com CNAME .
 cnctddot.com CNAME .
@@ -28088,6 +28096,8 @@ ewrwf.com CNAME .
 *.ewrwf.com CNAME .
 exacdn.com CNAME .
 *.exacdn.com CNAME .
+cdn.exactag.com CNAME .
+*.cdn.exactag.com CNAME .
 exactconfigurationhasten.com CNAME .
 *.exactconfigurationhasten.com CNAME .
 exactdrive.com CNAME .
@@ -50126,6 +50136,8 @@ pagecount.com CNAME .
 *.pagecount.com CNAME .
 pagefair.com CNAME .
 *.pagefair.com CNAME .
+pagejunky.com CNAME .
+*.pagejunky.com CNAME .
 t.pagesix.com CNAME .
 *.t.pagesix.com CNAME .
 paghai.com CNAME .
@@ -56134,6 +56146,8 @@ revenuestripe.com CNAME .
 *.revenuestripe.com CNAME .
 event-api.reverb.com CNAME .
 *.event-api.reverb.com CNAME .
+reverbstuffing.com CNAME .
+*.reverbstuffing.com CNAME .
 reversionhubbypole.com CNAME .
 *.reversionhubbypole.com CNAME .
 revertterm.com CNAME .
@@ -67168,6 +67182,8 @@ matomo.tweddle.com CNAME .
 *.matomo.tweddle.com CNAME .
 tweedygirly.com CNAME .
 *.tweedygirly.com CNAME .
+twelfthdistasteful.com CNAME .
+*.twelfthdistasteful.com CNAME .
 twelvethighpostal.com CNAME .
 *.twelvethighpostal.com CNAME .
 twentiethparticipation.com CNAME .
@@ -70670,14 +70686,6 @@ wawadoga.com CNAME .
 *.wawadoga.com CNAME .
 collector.wawlabs.com CNAME .
 *.collector.wawlabs.com CNAME .
-karaca.wawlabs.com CNAME .
-*.karaca.wawlabs.com CNAME .
-mediamarkt-ch.wawlabs.com CNAME .
-*.mediamarkt-ch.wawlabs.com CNAME .
-mm.wawlabs.com CNAME .
-*.mm.wawlabs.com CNAME .
-teknosa.wawlabs.com CNAME .
-*.teknosa.wawlabs.com CNAME .
 waxapushlite.com CNAME .
 *.waxapushlite.com CNAME .
 analytics.waxdigital.com CNAME .
@@ -76964,6 +76972,8 @@ data-d4db30a18b.on-online.de CNAME .
 *.data-d4db30a18b.on-online.de CNAME .
 data-7023b17a38.onetz.de CNAME .
 *.data-7023b17a38.onetz.de CNAME .
+tracking.online-trainer-lizenz.de CNAME .
+*.tracking.online-trainer-lizenz.de CNAME .
 data-207a822be2.onlinefussballmanager.de CNAME .
 *.data-207a822be2.onlinefussballmanager.de CNAME .
 cookiemanager.onm.de CNAME .
@@ -77368,6 +77378,8 @@ data-2d86fd41e0.stern.de CNAME .
 *.data-2d86fd41e0.stern.de CNAME .
 data-b389eff81a.stern.de CNAME .
 *.data-b389eff81a.stern.de CNAME .
+tracking.stihl.de CNAME .
+*.tracking.stihl.de CNAME .
 analytics.stimme.de CNAME .
 *.analytics.stimme.de CNAME .
 data-ae81bed93b.stimme.de CNAME .
@@ -88848,8 +88860,6 @@ astrsk.net CNAME .
 *.astrsk.net CNAME .
 asufqtg.net CNAME .
 *.asufqtg.net CNAME .
-at-o.net CNAME .
-*.at-o.net CNAME .
 analytics.esa.atanar.net CNAME .
 *.analytics.esa.atanar.net CNAME .
 ati-host.net CNAME .
@@ -90952,6 +90962,8 @@ d3llu4686fshym.cloudfront.net CNAME .
 *.d3llu4686fshym.cloudfront.net CNAME .
 d3ln1qrnwms3rd.cloudfront.net CNAME .
 *.d3ln1qrnwms3rd.cloudfront.net CNAME .
+d3lqotgbn3npr.cloudfront.net CNAME .
+*.d3lqotgbn3npr.cloudfront.net CNAME .
 d3lu45piikoyqh.cloudfront.net CNAME .
 *.d3lu45piikoyqh.cloudfront.net CNAME .
 d3luypns9uh4a4.cloudfront.net CNAME .
@@ -95914,6 +95926,8 @@ at-w-atderstand-relay.iocnt.net CNAME .
 *.at-w-atderstand-relay.iocnt.net CNAME .
 at-w-atkrone-relay.iocnt.net CNAME .
 *.at-w-atkrone-relay.iocnt.net CNAME .
+at-w-atnetdok-relay.iocnt.net CNAME .
+*.at-w-atnetdok-relay.iocnt.net CNAME .
 at-w-atorf-relay.iocnt.net CNAME .
 *.at-w-atorf-relay.iocnt.net CNAME .
 augsallg-relay.iocnt.net CNAME .
@@ -108486,8 +108500,6 @@ gn-flagpoles.api.bbci.co.uk CNAME .
 *.gn-flagpoles.api.bbci.co.uk CNAME .
 r.bbci.co.uk CNAME .
 *.r.bbci.co.uk CNAME .
-ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
-*.ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
 smetrics.beefeater.co.uk CNAME .
 *.smetrics.beefeater.co.uk CNAME .
 benlandscaping.co.uk CNAME .
@@ -109754,8 +109766,6 @@ thongke.baotintuc.vn CNAME .
 *.thongke.baotintuc.vn CNAME .
 log.beecost.vn CNAME .
 *.log.beecost.vn CNAME .
-s.biz.vn CNAME .
-*.s.biz.vn CNAME .
 crm.bizfly.vn CNAME .
 *.crm.bizfly.vn CNAME .
 webpush.bizfly.vn CNAME .
@@ -110654,8 +110664,6 @@ unotrack.world CNAME .
 *.unotrack.world CNAME .
 zxc.world CNAME .
 *.zxc.world CNAME .
-mercado.pago.hoje.comercial.ws CNAME .
-*.mercado.pago.hoje.comercial.ws CNAME .
 crackz.ws CNAME .
 *.crackz.ws CNAME .
 interpol.ws CNAME .
