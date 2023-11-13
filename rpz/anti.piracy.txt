@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699873080 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699916820 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Nov 2023 10:58 UTC
-; Version: 2023.1113.1058.10
+; Last modified: 13 Nov 2023 23:07 UTC
+; Version: 2023.1113.2307.24
 ; Syntax: RPZ
-; Number of entries: 21202
+; Number of entries: 21204
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10902,8 +10902,8 @@ gostream.is CNAME .
 *.gostream.is CNAME .
 hydrax.is CNAME .
 *.hydrax.is CNAME .
-pirate.hz.is CNAME .
-*.pirate.hz.is CNAME .
+hz.is CNAME .
+*.hz.is CNAME .
 iwannawatch.is CNAME .
 *.iwannawatch.is CNAME .
 letmewatchthis.is CNAME .
@@ -13014,6 +13014,8 @@ dvdriprl.net CNAME .
 *.dvdriprl.net CNAME .
 thitgaluoc.dynu.net CNAME .
 *.thitgaluoc.dynu.net CNAME .
+bittorrent-tracker.e-n-c-r-y-p-t.net CNAME .
+*.bittorrent-tracker.e-n-c-r-y-p-t.net CNAME .
 tracker.e-utp.net CNAME .
 *.tracker.e-utp.net CNAME .
 easycracks.net CNAME .
