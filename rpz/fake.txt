@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699874100 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1699960140 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Nov 2023 11:15 UTC
-; Version: 2023.1113.1115.03
+; Last modified: 14 Nov 2023 11:09 UTC
+; Version: 2023.1114.1109.47
 ; Syntax: RPZ
-; Number of entries: 27182
+; Number of entries: 27180
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -3126,6 +3126,8 @@ bragreservecooperation.com CNAME .
 *.bragreservecooperation.com CNAME .
 brain-metric.com CNAME .
 *.brain-metric.com CNAME .
+brainety.com CNAME .
+*.brainety.com CNAME .
 bralettesstore.com CNAME .
 *.bralettesstore.com CNAME .
 brandcosplay.com CNAME .
@@ -10098,8 +10100,6 @@ meds-tabs.com CNAME .
 *.meds-tabs.com CNAME .
 medshopcpl.com CNAME .
 *.medshopcpl.com CNAME .
-medsinfoshop.com CNAME .
-*.medsinfoshop.com CNAME .
 medzrezeptfrei.com CNAME .
 *.medzrezeptfrei.com CNAME .
 meester-werk.com CNAME .
@@ -27114,8 +27114,6 @@ spravi.us CNAME .
 *.spravi.us CNAME .
 vanitycosmetics.us CNAME .
 *.vanitycosmetics.us CNAME .
-algortrading.vip CNAME .
-*.algortrading.vip CNAME .
 blockhvs.vip CNAME .
 *.blockhvs.vip CNAME .
 breville.vip CNAME .
