@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699960140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700003280 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Nov 2023 11:09 UTC
-; Version: 2023.1114.1109.47
+; Last modified: 14 Nov 2023 23:08 UTC
+; Version: 2023.1114.2308.39
 ; Syntax: RPZ
-; Number of entries: 27180
+; Number of entries: 27182
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -10100,6 +10100,8 @@ meds-tabs.com CNAME .
 *.meds-tabs.com CNAME .
 medshopcpl.com CNAME .
 *.medshopcpl.com CNAME .
+medsinfoshop.com CNAME .
+*.medsinfoshop.com CNAME .
 medzrezeptfrei.com CNAME .
 *.medzrezeptfrei.com CNAME .
 meester-werk.com CNAME .
