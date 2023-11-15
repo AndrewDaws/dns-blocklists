@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1699916340 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700088660 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Nov 2023 22:59 UTC
-; Version: 2023.1113.2259.57
+; Last modified: 15 Nov 2023 22:51 UTC
+; Version: 2023.1115.2251.36
 ; Syntax: RPZ
-; Number of entries: 5126
+; Number of entries: 5130
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2839,6 +2839,8 @@ hax.co.id CNAME .
 *.hax.co.id CNAME .
 dns.spil.co.id CNAME .
 *.dns.spil.co.id CNAME .
+asia.dnscepat.id CNAME .
+*.asia.dnscepat.id CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 howdy.id CNAME .
@@ -4341,6 +4343,8 @@ dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
+aattwwss.duckdns.org CNAME .
+*.aattwwss.duckdns.org CNAME .
 home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
