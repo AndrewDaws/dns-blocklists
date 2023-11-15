@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700045940 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700089200 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Nov 2023 10:59 UTC
-; Version: 2023.1115.1059.22
+; Last modified: 15 Nov 2023 23:00 UTC
+; Version: 2023.1115.2300.10
 ; Syntax: RPZ
-; Number of entries: 21216
+; Number of entries: 21232
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -540,6 +540,8 @@ cb01.beer CNAME .
 *.1movies.best CNAME .
 allostream.best CNAME .
 *.allostream.best CNAME .
+altadefinizione.best CNAME .
+*.altadefinizione.best CNAME .
 cb01.best CNAME .
 *.cb01.best CNAME .
 tracker.daydream.dmhy.best CNAME .
@@ -2838,6 +2840,8 @@ cernet-tracker.appspot.com CNAME .
 *.cernet-tracker.appspot.com CNAME .
 appstoreforpc.com CNAME .
 *.appstoreforpc.com CNAME .
+appwarez.com CNAME .
+*.appwarez.com CNAME .
 appxv.com CNAME .
 *.appxv.com CNAME .
 appzplanet.com CNAME .
@@ -2884,8 +2888,12 @@ astakiller.com CNAME .
 *.astakiller.com CNAME .
 astalavista.com CNAME .
 *.astalavista.com CNAME .
+astra-soft.com CNAME .
+*.astra-soft.com CNAME .
 astroeggs.com CNAME .
 *.astroeggs.com CNAME .
+astrostress.com CNAME .
+*.astrostress.com CNAME .
 at123movies.com CNAME .
 *.at123movies.com CNAME .
 at4re.com CNAME .
@@ -8728,6 +8736,8 @@ acxx.de CNAME .
 *.acxx.de CNAME .
 alldebrid.de CNAME .
 *.alldebrid.de CNAME .
+allesanddro.de CNAME .
+*.allesanddro.de CNAME .
 allesender.de CNAME .
 *.allesender.de CNAME .
 altadefinizione.de CNAME .
@@ -12608,6 +12618,8 @@ amateur-hour.net CNAME .
 *.amateur-hour.net CNAME .
 andr.net CNAME .
 *.andr.net CNAME .
+anime-conan.net CNAME .
+*.anime-conan.net CNAME .
 tracker.anime-fin.net CNAME .
 *.tracker.anime-fin.net CNAME .
 anime-legion.net CNAME .
@@ -12644,6 +12656,8 @@ apkgeek.net CNAME .
 *.apkgeek.net CNAME .
 apkgod.net CNAME .
 *.apkgod.net CNAME .
+apkocean.net CNAME .
+*.apkocean.net CNAME .
 applelinkbd.net CNAME .
 *.applelinkbd.net CNAME .
 arabp2p.net CNAME .
@@ -14228,6 +14242,8 @@ torrentzone.net CNAME .
 *.torrentzone.net CNAME .
 tosarang.net CNAME .
 *.tosarang.net CNAME .
+tracker.trafficmgr.net CNAME .
+*.tracker.trafficmgr.net CNAME .
 transamrit.net CNAME .
 *.transamrit.net CNAME .
 trozam.net CNAME .
