@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1698360060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700088960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Oct 2023 22:41 UTC
-; Version: 2023.1026.2241.40
+; Last modified: 15 Nov 2023 22:56 UTC
+; Version: 2023.1115.2256.14
 ; Syntax: RPZ
-; Number of entries: 2964
+; Number of entries: 2968
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -306,6 +306,8 @@ anyitsolution.com CNAME .
 *.anyitsolution.com CNAME .
 apptechservices.com CNAME .
 *.apptechservices.com CNAME .
+arenaceballos.com CNAME .
+*.arenaceballos.com CNAME .
 arquivirtual.com CNAME .
 *.arquivirtual.com CNAME .
 asiamariage.com CNAME .
@@ -2046,6 +2048,8 @@ hbmc.net CNAME .
 *.hbmc.net CNAME .
 herodias.net CNAME .
 *.herodias.net CNAME .
+hicam.net CNAME .
+*.hicam.net CNAME .
 homeftp.net CNAME .
 *.homeftp.net CNAME .
 homeip.net CNAME .
