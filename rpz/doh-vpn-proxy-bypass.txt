@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700132100 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700175060 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Nov 2023 10:55 UTC
-; Version: 2023.1116.1055.10
+; Last modified: 16 Nov 2023 22:51 UTC
+; Version: 2023.1116.2251.26
 ; Syntax: RPZ
-; Number of entries: 5132
+; Number of entries: 5140
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2841,6 +2841,8 @@ dns.spil.co.id CNAME .
 *.dns.spil.co.id CNAME .
 asia.dnscepat.id CNAME .
 *.asia.dnscepat.id CNAME .
+eropa.dnscepat.id CNAME .
+*.eropa.dnscepat.id CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 howdy.id CNAME .
@@ -3383,6 +3385,8 @@ disconnect.me CNAME .
 *.disconnect.me CNAME .
 dnslow.me CNAME .
 *.dnslow.me CNAME .
+doublehop.me CNAME .
+*.doublehop.me CNAME .
 doh.dscloud.me CNAME .
 *.doh.dscloud.me CNAME .
 encrypt.me CNAME .
@@ -5027,6 +5031,10 @@ adg.yybyy.wiki CNAME .
 *.adg.yybyy.wiki CNAME .
 dns.4-the.win CNAME .
 *.dns.4-the.win CNAME .
+doh.abmb.win CNAME .
+*.doh.abmb.win CNAME .
+doh2.abmb.win CNAME .
+*.doh2.abmb.win CNAME .
 freeproxy.win CNAME .
 *.freeproxy.win CNAME .
 dns.meeo.win CNAME .
