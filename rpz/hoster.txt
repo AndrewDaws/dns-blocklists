@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700045820 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700132400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Nov 2023 10:57 UTC
-; Version: 2023.1115.1057.03
+; Last modified: 16 Nov 2023 11:00 UTC
+; Version: 2023.1116.1100.21
 ; Syntax: RPZ
-; Number of entries: 4006
+; Number of entries: 4012
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -688,6 +688,8 @@ blogspot.com CNAME .
 *.blogspot.com CNAME .
 blogspothub.com CNAME .
 *.blogspothub.com CNAME .
+blogster.com CNAME .
+*.blogster.com CNAME .
 blogstival.com CNAME .
 *.blogstival.com CNAME .
 blogsumer.com CNAME .
@@ -2338,6 +2340,8 @@ blogit.fr CNAME .
 *.blogit.fr CNAME .
 blogs.fr CNAME .
 *.blogs.fr CNAME .
+blogspace.fr CNAME .
+*.blogspace.fr CNAME .
 blogspot.fr CNAME .
 *.blogspot.fr CNAME .
 bookspace.fr CNAME .
@@ -2756,6 +2760,8 @@ asdvaldruento.it CNAME .
 *.asdvaldruento.it CNAME .
 avisborgosanmartino.it CNAME .
 *.avisborgosanmartino.it CNAME .
+beepworld.it CNAME .
+*.beepworld.it CNAME .
 blogs.it CNAME .
 *.blogs.it CNAME .
 blogspot.it CNAME .
