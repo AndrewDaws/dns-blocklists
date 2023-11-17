@@ -6,14 +6,7 @@
 
 ---
 
-:thought_balloon: **Google** *FILTERS YOUR THOUGHTS*         
-:woman: **Apple** *KNOWS WHERE YOUR MOM IS*         
-:book: **Facebook** *CHOOSES WHAT YOU READ*        
-:gift: **Amazon** *KNOWS WHAT PRESENTS ARE YOU GETTING*      
-:children_crossing: **Microsoft** *FORMATS YOUR KIDS*      
-:moneybag: **Others** *CREATES EXTENSIVE PROFILES AND SELLS YOUR DATA*         
-
-:bangbang: *Privacy is not a crime, protect yourself!* :bangbang:
+:bangbang: *Privacy is not a crime, protect yourself* :bangbang:
 
 ---	 
 
@@ -49,8 +42,8 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Pers<br>onal](#personal) | [Native](#native) | [PopUp<br>Ads](#popupads) |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|:----:|
-| :green_book:[Light](#light)             | 213876<br>73280     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | |
-| :blue_book:[Normal](#normal)       | 746996<br>183757     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: |
+| :green_book:[Light](#light)             | 187423<br>59626     |  |   |   |  |  | :yellow_square: | :green_circle: | :yellow_square: | |
+| :blue_book:[Normal](#normal)       | 730085<br>175050     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: |
 | :ledger:[Pro](#pro)              | 996288<br>276744         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 1245470<br>361734 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
 | :closed_book:[Ultimate](#ultimate)    | 1497745<br>458862 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
@@ -66,7 +59,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *213876 domains/hosts - 73280 compressed domains*                    
+**Entries:** *187423 domains/hosts - 59626 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -84,7 +77,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *746996 domains/hosts - 183757 compressed domains*                   
+**Entries:** *730085 domains/hosts - 175050 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -161,9 +154,9 @@
 ### :trollface: ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
-|             | Light          | Normal         | Pro            | Pro++          | Ultimate       |
-|:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| Included in | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
+|             | Light | Normal          | Pro            | Pro++          | Ultimate       | TIF            |
+|:-----------:|:-----:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| Included in | :x:   | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: yes :yellow_square: partially :x: no
 		
