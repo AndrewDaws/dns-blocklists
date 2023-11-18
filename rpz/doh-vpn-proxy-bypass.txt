@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700304660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700348220 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Nov 2023 10:51 UTC
-; Version: 2023.1118.1051.32
+; Last modified: 18 Nov 2023 22:57 UTC
+; Version: 2023.1118.2257.30
 ; Syntax: RPZ
-; Number of entries: 5150
+; Number of entries: 5156
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2033,6 +2033,8 @@ d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 tonvpn.com CNAME .
 *.tonvpn.com CNAME .
+proxy.toolur.com CNAME .
+*.proxy.toolur.com CNAME .
 top10vpn.com CNAME .
 *.top10vpn.com CNAME .
 topvpnguides.com CNAME .
@@ -2515,8 +2517,6 @@ dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 doh.funil.de CNAME .
@@ -5125,10 +5125,16 @@ ny1.nixnet.xyz CNAME .
 *.ny1.nixnet.xyz CNAME .
 ns8469rfvth42.xyz CNAME .
 *.ns8469rfvth42.xyz CNAME .
+pankvyh.xyz CNAME .
+*.pankvyh.xyz CNAME .
 panmill.xyz CNAME .
 *.panmill.xyz CNAME .
 panskeet.xyz CNAME .
 *.panskeet.xyz CNAME .
+pantavv.xyz CNAME .
+*.pantavv.xyz CNAME .
+pantoto.xyz CNAME .
+*.pantoto.xyz CNAME .
 panyyhh.xyz CNAME .
 *.panyyhh.xyz CNAME .
 panzend.xyz CNAME .
