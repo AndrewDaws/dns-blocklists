@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700348220 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700391120 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Nov 2023 22:57 UTC
-; Version: 2023.1118.2257.30
+; Last modified: 19 Nov 2023 10:52 UTC
+; Version: 2023.1119.1052.08
 ; Syntax: RPZ
-; Number of entries: 5156
+; Number of entries: 5166
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1821,6 +1821,8 @@ securitykiss.com CNAME .
 *.securitykiss.com CNAME .
 sedirepseh.com CNAME .
 *.sedirepseh.com CNAME .
+selfadserver.com CNAME .
+*.selfadserver.com CNAME .
 serverhoya.com CNAME .
 *.serverhoya.com CNAME .
 assets-prod-a230.s3.serverwild.com CNAME .
@@ -2517,6 +2519,8 @@ dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
+dns.dyn1.de CNAME .
+*.dns.dyn1.de CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 doh.funil.de CNAME .
@@ -4503,6 +4507,8 @@ secretsline.org CNAME .
 *.secretsline.org CNAME .
 shadowsocks.org CNAME .
 *.shadowsocks.org CNAME .
+sharevpn.org CNAME .
+*.sharevpn.org CNAME .
 dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 sitenable.org CNAME .
@@ -4771,6 +4777,8 @@ proxyunblock.site CNAME .
 *.proxyunblock.site CNAME .
 rabbithole.site CNAME .
 *.rabbithole.site CNAME .
+starrynight.site CNAME .
+*.starrynight.site CNAME .
 vpnproxy.site CNAME .
 *.vpnproxy.site CNAME .
 surfshark.sk CNAME .
@@ -4843,6 +4851,8 @@ proxyserverlist24.top CNAME .
 *.proxyserverlist24.top CNAME .
 proxysite.top CNAME .
 *.proxysite.top CNAME .
+supervpn.top CNAME .
+*.supervpn.top CNAME .
 vpnmaster.top CNAME .
 *.vpnmaster.top CNAME .
 agh.xinfeng16m.top CNAME .
