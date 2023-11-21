@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700565600 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700609580 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Nov 2023 11:20 UTC
-; Version: 2023.1121.1120.20
+; Last modified: 21 Nov 2023 23:33 UTC
+; Version: 2023.1121.2333.19
 ; Syntax: RPZ
-; Number of entries: 27990
+; Number of entries: 27994
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -8122,6 +8122,8 @@ holzbiomass.com CNAME .
 *.holzbiomass.com CNAME .
 holzdeals24.com CNAME .
 *.holzdeals24.com CNAME .
+holzenergie-pellets.com CNAME .
+*.holzenergie-pellets.com CNAME .
 holzermedia.com CNAME .
 *.holzermedia.com CNAME .
 holzlagermarket.com CNAME .
@@ -10020,6 +10022,8 @@ lowasales.com CNAME .
 *.lowasales.com CNAME .
 lowpriceshoespro.com CNAME .
 *.lowpriceshoespro.com CNAME .
+lprhomes.com CNAME .
+*.lprhomes.com CNAME .
 lscodockersat.com CNAME .
 *.lscodockersat.com CNAME .
 lsmotorrad.com CNAME .
