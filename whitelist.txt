@@ -1625,7 +1625,7 @@ wabetainfo.com
 disguised.nl
 
 # Prevents registration on rungne.com
-a.klaviyo.com
+*.a.klaviyo.com
 
 # Videos in Glomex player
 lush-clouds.zomap.de
@@ -2751,6 +2751,7 @@ sentry.sc-prod.net
 *.chatra.io
 
 # Breaks Forms on/in various sites/apps
+# https://github.com/hagezi/dns-blocklists/issues/1777
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
 
@@ -5120,9 +5121,6 @@ vp-event-receiver.userdata-prod.aws-cbc.cloud
 # Zynga Games
 api.zynga.com
 
-# https://github.com/hagezi/dns-blocklists/issues/1777
-static-forms.klaviyo.com
-
 # https://github.com/hagezi/dns-blocklists/issues/1778
 *.tracker.dragontail.com
 
@@ -5234,4 +5232,7 @@ fb.content-loader.com
 
 # Links / shared Designs
 track.canva.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1851
+wallstreetjournal-ny-app.newsmemory.com
 
