@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700650800 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700694000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Nov 2023 11:00 UTC
-; Version: 2023.1122.1100.24
+; Last modified: 22 Nov 2023 23:00 UTC
+; Version: 2023.1122.2300.30
 ; Syntax: RPZ
-; Number of entries: 21490
+; Number of entries: 21494
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5974,6 +5974,8 @@ nfonews.com CNAME .
 *.nfonews.com CNAME .
 nfoogle.com CNAME .
 *.nfoogle.com CNAME .
+bt.nfshost.com CNAME .
+*.bt.nfshost.com CNAME .
 ng4you.com CNAME .
 *.ng4you.com CNAME .
 nglink.com CNAME .
@@ -14282,6 +14284,8 @@ the-pop-corn-time.net CNAME .
 *.the-pop-corn-time.net CNAME .
 the-potato.net CNAME .
 *.the-potato.net CNAME .
+thecompletewebs.net CNAME .
+*.thecompletewebs.net CNAME .
 thegt.net CNAME .
 *.thegt.net CNAME .
 thehotfix.net CNAME .
