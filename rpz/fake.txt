@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700738400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700781540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Nov 2023 11:20 UTC
-; Version: 2023.1123.1120.30
+; Last modified: 23 Nov 2023 23:19 UTC
+; Version: 2023.1123.2319.08
 ; Syntax: RPZ
-; Number of entries: 28026
+; Number of entries: 28028
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -24678,6 +24678,8 @@ xn--goldbank-mnchen-8vb.de CNAME .
 *.xn--goldbank-mnchen-8vb.de CNAME .
 xo-trier.de CNAME .
 *.xo-trier.de CNAME .
+xspiegel.de CNAME .
+*.xspiegel.de CNAME .
 xxl-handel.de CNAME .
 *.xxl-handel.de CNAME .
 yahalom.de CNAME .
