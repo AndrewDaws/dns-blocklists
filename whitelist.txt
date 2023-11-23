@@ -3324,10 +3324,13 @@ zurl.co
 prod.telemetry.ros.rockstargames.com
 elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 
-# Playstation 5 Trophies / recently played games
-telemetry-console.api.playstation.com
-telemetry-console.api.playstation.com-v2.edgekey.net
-smetrics*.playstation.com
+# Playstation 5 Trophies / recently played games / Store
+# telemetry-console.api.playstation.com
+*.api.playstation.com
+*.playstation.com-v2.edgekey.net
+*.playstation.com.*.omtrdc.net
+*.playstation.com.edgekey.net
+payments.direct.playstation.com
 
 # Epicgames 2FA auth, store purchase
 tracking.epicgames.com
