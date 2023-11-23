@@ -302,6 +302,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tren
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-uscert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-various.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-volexity.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yarix.txt
