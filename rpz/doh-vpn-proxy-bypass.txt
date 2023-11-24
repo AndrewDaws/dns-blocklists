@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700650380 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700823120 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Nov 2023 10:53 UTC
-; Version: 2023.1122.1053.02
+; Last modified: 24 Nov 2023 10:52 UTC
+; Version: 2023.1124.1052.58
 ; Syntax: RPZ
-; Number of entries: 5172
+; Number of entries: 5278
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2729,6 +2729,8 @@ wtools.eu CNAME .
 *.wtools.eu CNAME .
 zougloub.eu CNAME .
 *.zougloub.eu CNAME .
+dns.expert CNAME .
+*.dns.expert CNAME .
 vpn.express CNAME .
 *.vpn.express CNAME .
 dns.connect.fail CNAME .
@@ -4225,6 +4227,8 @@ zpath.net CNAME .
 *.zpath.net CNAME .
 zscalertwo.net CNAME .
 *.zscalertwo.net CNAME .
+paranoia.mydns.network CNAME .
+*.paranoia.mydns.network CNAME .
 dns.unerror.network CNAME .
 *.dns.unerror.network CNAME .
 nodes.gen4.ninja CNAME .
@@ -4445,6 +4449,16 @@ sby-doh.limotelu.org CNAME .
 *.sby-doh.limotelu.org CNAME .
 doh.dns1.lonet.org CNAME .
 *.doh.dns1.lonet.org CNAME .
+doh.phdns1.lonet.org CNAME .
+*.doh.phdns1.lonet.org CNAME .
+doh.phdns2.lonet.org CNAME .
+*.doh.phdns2.lonet.org CNAME .
+doh.phdns3.lonet.org CNAME .
+*.doh.phdns3.lonet.org CNAME .
+doh.phdns4.lonet.org CNAME .
+*.doh.phdns4.lonet.org CNAME .
+doh.phdns5.lonet.org CNAME .
+*.doh.phdns5.lonet.org CNAME .
 mehide.org CNAME .
 *.mehide.org CNAME .
 dns.mikeliu.org CNAME .
@@ -4639,6 +4653,98 @@ unblockit.pro CNAME .
 *.unblockit.pro CNAME .
 doh.xcom.pro CNAME .
 *.doh.xcom.pro CNAME .
+abe01.dnscry.pt CNAME .
+*.abe01.dnscry.pt CNAME .
+ams01.dnscry.pt CNAME .
+*.ams01.dnscry.pt CNAME .
+ams02.dnscry.pt CNAME .
+*.ams02.dnscry.pt CNAME .
+atl01.dnscry.pt CNAME .
+*.atl01.dnscry.pt CNAME .
+bom01.dnscry.pt CNAME .
+*.bom01.dnscry.pt CNAME .
+coe01.dnscry.pt CNAME .
+*.coe01.dnscry.pt CNAME .
+cvt01.dnscry.pt CNAME .
+*.cvt01.dnscry.pt CNAME .
+dfw01.dnscry.pt CNAME .
+*.dfw01.dnscry.pt CNAME .
+dtw01.dnscry.pt CNAME .
+*.dtw01.dnscry.pt CNAME .
+dub01.dnscry.pt CNAME .
+*.dub01.dnscry.pt CNAME .
+dus01.dnscry.pt CNAME .
+*.dus01.dnscry.pt CNAME .
+fra01.dnscry.pt CNAME .
+*.fra01.dnscry.pt CNAME .
+geg01.dnscry.pt CNAME .
+*.geg01.dnscry.pt CNAME .
+hkg01.dnscry.pt CNAME .
+*.hkg01.dnscry.pt CNAME .
+jnb01.dnscry.pt CNAME .
+*.jnb01.dnscry.pt CNAME .
+kiv01.dnscry.pt CNAME .
+*.kiv01.dnscry.pt CNAME .
+las01.dnscry.pt CNAME .
+*.las01.dnscry.pt CNAME .
+lax01.dnscry.pt CNAME .
+*.lax01.dnscry.pt CNAME .
+lax02.dnscry.pt CNAME .
+*.lax02.dnscry.pt CNAME .
+llk01.dnscry.pt CNAME .
+*.llk01.dnscry.pt CNAME .
+lon01.dnscry.pt CNAME .
+*.lon01.dnscry.pt CNAME .
+mad01.dnscry.pt CNAME .
+*.mad01.dnscry.pt CNAME .
+mia01.dnscry.pt CNAME .
+*.mia01.dnscry.pt CNAME .
+muc01.dnscry.pt CNAME .
+*.muc01.dnscry.pt CNAME .
+naw01.dnscry.pt CNAME .
+*.naw01.dnscry.pt CNAME .
+nyc01.dnscry.pt CNAME .
+*.nyc01.dnscry.pt CNAME .
+ord01.dnscry.pt CNAME .
+*.ord01.dnscry.pt CNAME .
+pdx01.dnscry.pt CNAME .
+*.pdx01.dnscry.pt CNAME .
+phl01.dnscry.pt CNAME .
+*.phl01.dnscry.pt CNAME .
+phx01.dnscry.pt CNAME .
+*.phx01.dnscry.pt CNAME .
+rdu01.dnscry.pt CNAME .
+*.rdu01.dnscry.pt CNAME .
+sin01.dnscry.pt CNAME .
+*.sin01.dnscry.pt CNAME .
+slc01.dnscry.pt CNAME .
+*.slc01.dnscry.pt CNAME .
+sof01.dnscry.pt CNAME .
+*.sof01.dnscry.pt CNAME .
+sto01.dnscry.pt CNAME .
+*.sto01.dnscry.pt CNAME .
+syd01.dnscry.pt CNAME .
+*.syd01.dnscry.pt CNAME .
+tll01.dnscry.pt CNAME .
+*.tll01.dnscry.pt CNAME .
+tpa01.dnscry.pt CNAME .
+*.tpa01.dnscry.pt CNAME .
+tpe01.dnscry.pt CNAME .
+*.tpe01.dnscry.pt CNAME .
+trf01.dnscry.pt CNAME .
+*.trf01.dnscry.pt CNAME .
+tyo01.dnscry.pt CNAME .
+*.tyo01.dnscry.pt CNAME .
+vie01.dnscry.pt CNAME .
+*.vie01.dnscry.pt CNAME .
+waw01.dnscry.pt CNAME .
+*.waw01.dnscry.pt CNAME .
+ycg01.dnscry.pt CNAME .
+*.ycg01.dnscry.pt CNAME .
+yul01.dnscry.pt CNAME .
+*.yul01.dnscry.pt CNAME .
+zal01.dnscry.pt CNAME .
+*.zal01.dnscry.pt CNAME .
 dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
 dns.pub CNAME .
@@ -4925,8 +5031,6 @@ dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
 unblockit.uno CNAME .
 *.unblockit.uno CNAME .
-1proxy.us CNAME .
-*.1proxy.us CNAME .
 2fastsurfer.us CNAME .
 *.2fastsurfer.us CNAME .
 2proxy.us CNAME .
@@ -5089,6 +5193,8 @@ xite.ws CNAME .
 *.xite.ws CNAME .
 bypassed.wtf CNAME .
 *.bypassed.wtf CNAME .
+doh.zln.wtf CNAME .
+*.doh.zln.wtf CNAME .
 dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
 jp.68360612.xyz CNAME .
