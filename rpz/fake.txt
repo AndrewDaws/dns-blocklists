@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700781540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700824920 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Nov 2023 23:19 UTC
-; Version: 2023.1123.2319.08
+; Last modified: 24 Nov 2023 11:22 UTC
+; Version: 2023.1124.1122.18
 ; Syntax: RPZ
-; Number of entries: 28028
+; Number of entries: 28030
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -10372,6 +10372,8 @@ mediamarkt-de.com CNAME .
 *.mediamarkt-de.com CNAME .
 median-home.com CNAME .
 *.median-home.com CNAME .
+medianews77.com CNAME .
+*.medianews77.com CNAME .
 mediashopch.com CNAME .
 *.mediashopch.com CNAME .
 medicamententreparticulier.com CNAME .
@@ -11820,6 +11822,8 @@ on-switch.com CNAME .
 *.on-switch.com CNAME .
 oncamptoys.com CNAME .
 *.oncamptoys.com CNAME .
+oncloud-sneakers.com CNAME .
+*.oncloud-sneakers.com CNAME .
 oncloud-turkey.com CNAME .
 *.oncloud-turkey.com CNAME .
 onclouddeutschland.com CNAME .
@@ -24722,8 +24726,6 @@ zeroplay.de CNAME .
 *.zeroplay.de CNAME .
 zetko-waren.de CNAME .
 *.zetko-waren.de CNAME .
-app.zety.de CNAME .
-*.app.zety.de CNAME .
 zetzethaustechnik.de CNAME .
 *.zetzethaustechnik.de CNAME .
 zeusholz.de CNAME .
