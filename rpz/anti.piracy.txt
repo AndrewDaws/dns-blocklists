@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700823660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1700866680 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 24 Nov 2023 11:01 UTC
-; Version: 2023.1124.1101.16
+; Last modified: 24 Nov 2023 22:58 UTC
+; Version: 2023.1124.2258.09
 ; Syntax: RPZ
 ; Number of entries: 21504
 ;
@@ -15120,8 +15120,6 @@ filmsenzalimiti.ooo CNAME .
 *.420project.org CNAME .
 4players.org CNAME .
 *.4players.org CNAME .
-60-fps.org CNAME .
-*.60-fps.org CNAME .
 7tor.org CNAME .
 *.7tor.org CNAME .
 7track.org CNAME .
@@ -15820,6 +15818,8 @@ jamez.org CNAME .
 *.jamez.org CNAME .
 torrent.janemusic.org CNAME .
 *.torrent.janemusic.org CNAME .
+tracker.jdx3.org CNAME .
+*.tracker.jdx3.org CNAME .
 justdubs.org CNAME .
 *.justdubs.org CNAME .
 blog.jxzmz.org CNAME .
