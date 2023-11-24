@@ -283,6 +283,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-meta
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-misc.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ncc.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangelog4shell.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
