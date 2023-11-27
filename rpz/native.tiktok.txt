@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1700046660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701084060 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Nov 2023 11:11 UTC
-; Version: 2023.1115.1111.21
+; Last modified: 27 Nov 2023 11:21 UTC
+; Version: 2023.1127.1121.39
 ; Syntax: RPZ
-; Number of entries: 492
+; Number of entries: 496
 ;
 frontier.byteoversea.com CNAME .
 *.frontier.byteoversea.com CNAME .
@@ -218,6 +218,8 @@ mssdk.us.tiktok.com CNAME .
 *.mssdk.us.tiktok.com CNAME .
 mssdk-ttp2.us.tiktok.com CNAME .
 *.mssdk-ttp2.us.tiktok.com CNAME .
+catalogo.tiktokv.com CNAME .
+*.catalogo.tiktokv.com CNAME .
 log.tiktokv.com CNAME .
 *.log.tiktokv.com CNAME .
 log-i18n.tiktokv.com CNAME .
@@ -348,6 +350,8 @@ mon-va.tiktokv.com CNAME .
 *.mon-va.tiktokv.com CNAME .
 monbk.tiktokv.com CNAME .
 *.monbk.tiktokv.com CNAME .
+monitoring.tiktokv.com CNAME .
+*.monitoring.tiktokv.com CNAME .
 mssdk-i18n.tiktokv.com CNAME .
 *.mssdk-i18n.tiktokv.com CNAME .
 mssdk-phx.tiktokv.com CNAME .
